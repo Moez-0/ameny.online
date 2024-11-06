@@ -7,7 +7,7 @@ const Hero = () => {
         {/* This is a porfolio hero  */}
         <HeroHighlight >
           <div className='text-center'>
-            <h1 className='text-4xl font-bold'>Welcome to my portfolio</h1>
+            <h1 className='text-4xl font-bold'>Ameny Dhouib</h1>
             <Highlight className='text-2xl mt-5 '>Under Development </Highlight>
           </div>
         </HeroHighlight>
