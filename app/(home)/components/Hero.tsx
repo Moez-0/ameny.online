@@ -8,7 +8,8 @@ const Hero = () => {
         <HeroHighlight >
           <div className='text-center'>
             <h1 className='text-4xl font-bold'>Ameny Dhouib</h1>
-            <Highlight className='text-2xl mt-5 '>Under Development </Highlight>
+            <Highlight className='text-2xl mt-5 '>Software Engineering Student @ SMU</Highlight>
+
           </div>
         </HeroHighlight>
 

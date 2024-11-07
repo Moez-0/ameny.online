@@ -12,7 +12,7 @@ const Navbar = () => {
     <div className='md:p-24 p-14 flex items-center justify-between'>
       <button className='cursor-pointer transition-all duration-300 -rotate-3'>
         <h1 className='text-2xl font-bold relative inline-block'>
-          <span className='relative z-10 bg-primary '>ameny.online</span>
+          <span className='relative z-10 bg-primary hover:bg-primary-foreground transition-all duration-300'>ameny.online</span>
         </h1>
       </button>
 
